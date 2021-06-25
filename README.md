@@ -4,7 +4,6 @@ The plan this time is to attempt to see if we can predict the points value of a 
 
 data sources used:
 
-https://www.kaggle.com/cjblue83/warhammer-40k-model-stats
-something with the rules, I havent found anything yet. There sure is alot of junk out there goddamn
+some guy whosting a somewhat dubious website online that I wont link...
 
 hopefully this will allow us to do some regression analysis and modelling (lol).
